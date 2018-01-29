@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reza</string>
+
+    <!-- Formulaire reservation-->
+    <string name="Select_room">Selectionner une salle : </string>
+    <string name="Select_date">Selectionner une date : </string>
+    <string name="Select_responsable">Selectionner un responsble : </string>
+    <string name="pic_date">Choisir une date</string>
+    <string name="sauvegarde">Sauvegarder</string>
+
+    <!-- Liste salle-->
+    <string-array name="room">
+        <item>salle 1</item>
+        <item>salle 2</item>
+        <item>salle 3</item>
+        <item>salle 4</item>
+        <item>salle 5</item>
+    </string-array>
+
+
+
+</resources>
